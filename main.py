@@ -47,7 +47,7 @@ def run_alexa():
         print(info)
         talk(info)
     elif 'Wanna go on a date' in command:
-        talk('sorry, I heard you already love someone, no')
+        talk('I would have loved to butI dint want to break your heart')
     elif 'are you single' in command:
         talk('I am already in a relationship with your wifi')
     elif 'joke' in command:
