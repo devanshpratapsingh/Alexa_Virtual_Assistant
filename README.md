@@ -2,10 +2,10 @@
 
 It's a simple Alexa, Google Home, Jarvis like virtual assistant :)
 
-<b>Required Libraries</b><br>
-speech_recognition<br>
+<b>Required Libraries:</b><br>
+<ul>speech_recognition<br>
 pyttsx3<br>
 pywhatkit<br>
 datetime<br>
 wikipedia<br>
-pyjokes
+pyjokes</ul>
